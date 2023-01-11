@@ -1,2 +1,2 @@
 # Youtube_Clone
- file:///home/mahmoud/Pictures/Screenshots/Screenshot%20from%202023-01-11%2012-06-21.png
+![Screenshot from 2023-01-11 12-06-21](https://user-images.githubusercontent.com/101974539/211777770-fde1ecaa-822c-41af-9f5f-09295c56f24e.png)
